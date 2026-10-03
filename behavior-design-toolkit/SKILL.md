@@ -1,6 +1,6 @@
 ---
 name: behavior-design-toolkit
-description: 行为设计三件套落地法。做增长转化、引导用户行为、上新区引导、留存活动设计时使用。Use for conversion optimization, onboarding, growth campaigns.
+description: 行为设计三件套落地法。做增长转化、引导用户行为、新用户引导、留存活动、签到激励体系、会员等级、勋章、裂变红包、AB 测试设计时使用。Use for conversion optimization, onboarding, growth campaigns, check-in & loyalty systems, membership tiers, and A/B testing.
 version: 1.0
 ---
 

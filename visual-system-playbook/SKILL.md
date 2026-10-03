@@ -1,6 +1,6 @@
 ---
 name: visual-system-playbook
-description: 视觉体系构建手册。做品牌定义、设计语言、大改版视觉升级、情绪板时使用。Use for brand definition, design language, visual redesign, mood boards.
+description: 视觉体系构建手册。做品牌定义、设计语言、大改版视觉升级、情绪板、Design Token、暗黑模式、色板与无障碍配色时使用。Use for brand definition, design language, visual redesign, mood boards, design tokens, dark mode, and accessible color systems.
 version: 1.0
 ---
 
