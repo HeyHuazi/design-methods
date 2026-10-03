@@ -169,6 +169,6 @@ version: 1.0
 
 
 ## 来源
-来源：大厂项目复盘知识库（语雀 suoyibo/lk20w0）；结构化数据见 ./refs/methods.json 流程评审类目。
+来源：大厂项目复盘知识库（语雀 <https://www.yuque.com/suoyibo/lk20w0>）；结构化数据见 ./refs/methods.json 流程评审类目。
 - 图片 OCR 增量（2026-10-03）：2358 篇文章配图的 OCR 文字挖掘
 - 设计提效类 11 法（时间管理、流程自动化、审批提效、AI 批量处理、可视化选型等）已拆分至独立 skill `efficiency-toolkit`

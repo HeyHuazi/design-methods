@@ -188,5 +188,5 @@ version: 1.0
 
 
 ## 来源
-来源：大厂项目复盘知识库（语雀 suoyibo/lk20w0）；结构化数据见 ./refs/methods.json 视觉体系类目。
+来源：大厂项目复盘知识库（语雀 <https://www.yuque.com/suoyibo/lk20w0>）；结构化数据见 ./refs/methods.json 视觉体系类目。
 - 图片 OCR 增量（2026-10-03）：2358 篇文章配图的 OCR 文字挖掘

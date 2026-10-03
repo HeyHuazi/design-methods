@@ -31,7 +31,7 @@ cp -R <skill-name> ~/.config/alma/skills/
 
 ## 数据来源
 
-- 语雀「大厂项目复盘知识库」（suoyibo/lk20w0）：2388 篇大厂设计复盘文章
+- 语雀「大厂项目复盘知识库」（<https://www.yuque.com/suoyibo/lk20w0>）：2388 篇大厂设计复盘文章
 - 2026-10 图片 OCR 增量挖掘：42947 张配图中的方法论要点
 - 各 skill 的 `refs/` 目录内为结构化方法卡数据（JSON），出处文章逐条标注于卡片内
 

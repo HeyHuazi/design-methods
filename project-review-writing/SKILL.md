@@ -202,5 +202,5 @@ version: 1.0
 - 结尾必沉淀：把项目产出抽象为可复用资产（组件库/方法论/工具）
 
 ## 来源
-来源：大厂项目复盘知识库（语雀 suoyibo/lk20w0）；结构化数据见 ./refs/review-template.json（26 篇精读，出处逐条标注）。
+来源：大厂项目复盘知识库（语雀 <https://www.yuque.com/suoyibo/lk20w0>）；结构化数据见 ./refs/review-template.json（26 篇精读，出处逐条标注）。
 - 图片 OCR 增量（2026-10-03）：2358 篇文章配图的 OCR 文字挖掘

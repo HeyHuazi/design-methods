@@ -6,7 +6,7 @@ version: 1.0
 
 # 设计提效工具链（效率类 11 法）
 
-提炼自大厂复盘知识库效率类文章。结构化数据见 ./refs/efficiency-methods.json。
+提炼自大厂复盘知识库效率类文章（语雀 <https://www.yuque.com/suoyibo/lk20w0>）。结构化数据见 ./refs/efficiency-methods.json。
 
 ## 方法速览（决策树）
 
